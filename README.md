@@ -82,4 +82,4 @@
 
 ## 📷 Моё фото
 
-![Моё фото](assets/images/photo.jpg)
+![Моё фото](assets/images/photo_1.jpg)
