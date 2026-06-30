@@ -1,1 +1,3 @@
-theme: minima-rock
+remote_theme: alxdhuang/minima-rock
+plugins:
+  - jekyll-remote-theme
